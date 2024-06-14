@@ -8,4 +8,8 @@ h1 {
 }
 body {
   background-color: black;
+h2 {
+  color: pink;
+  text-decoration: dashed;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
