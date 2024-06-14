@@ -2,4 +2,10 @@ h2 {
   color: pink;
   text-decoration: dashed;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+h1 {
+  color: red;
+  font-size: 200px;
+}
+body {
+  background-color: black;
 }
